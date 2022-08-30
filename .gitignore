@@ -1,0 +1,8 @@
+atlantis.var
+*.zip
+ngrok
+atlantis*.zip
+atlantis
+.env.local
+.terraformrc
+github-private-file.pem
